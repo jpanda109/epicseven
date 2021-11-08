@@ -385,7 +385,7 @@ export default Vue.extend({
       }
     },
     resetForm(): void {
-      document.location.reload(true);
+      document.location.reload();
       $('.toast').toast('hide');
       $('#resettoast').toast('show');
     },

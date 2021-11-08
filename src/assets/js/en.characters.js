@@ -85,7 +85,7 @@ export const en = [
   { _id: 'solitaria-of-the-snow', name: 'Solitaria of the Snow', rarity: 5, role: 'mage', attribute: 'light', zodiac: 'bull' },
   { _id: 'specimen-sez', name: 'Specimen Sez', rarity: 5, role: 'assassin', attribute: 'light', zodiac: 'scorpion' },
   { _id: 'specter-tenebria', name: 'Specter Tenebria', rarity: 5, role: 'mage', attribute: 'dark', zodiac: 'twins' },
-  { _id: 'spirit-eye-celine', name: 'Spirit Eye Celine', rarity: 5, role: 'assassin', attribute: 'light', zodiac: 'archer' }
+  { _id: 'spirit-eye-celine', name: 'Spirit Eye Celine', rarity: 5, role: 'assassin', attribute: 'light', zodiac: 'archer' },
   { _id: 'straze', name: 'Straze', rarity: 5, role: 'warrior', attribute: 'dark', zodiac: 'bull' },
   { _id: 'summertime-iseria', name: 'Summertime Iseria', rarity: 5, role: 'ranger', attribute: 'fire', zodiac: 'goat' },
   { _id: 'tamarinne', name: 'Tamarinne', rarity: 5, role: 'manauser', attribute: 'fire', zodiac: 'archer' },
