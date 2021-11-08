@@ -28,6 +28,7 @@ export const en = {
   enemiesThirdArtifact: 'Third artifact',
   setCounter: 'Counter set',
   setImmunity: 'Immunity set',
+  setInjury: 'Injury set',
   setLifesteal: 'Lifesteal set',
   formatHpK: 'k',
   crBonus: '% CR Push back',
